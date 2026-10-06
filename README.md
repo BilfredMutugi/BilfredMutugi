@@ -1,12 +1,12 @@
 # Hi, I'm Bilfred Mutugi 👋
 
-**Finance & Crypto Analyst · News and SEO Writer · Legal Researcher**
+**Finance & Stock Analyst · News and SEO Writer · Legal Researcher**
 Nairobi, Kenya · English, Swahili, Spanish
 
-I turn complex finance, crypto, regulatory and legal topics into clear, accurate writing for global audiences.
+I turn complex finance, stock, regulatory and legal topics into clear, accurate writing for global audiences.
 
 ## What I do
-- **Finance & crypto analysis:** asset performance, trading volumes, market risk, and regulatory and macro impact
+- **Finance & stock analysis:** asset performance, trading volumes, market risk, and regulatory and macro impact
 - **News & SEO writing:** daily news and explainers in AP style, built for search
 - **Legal research:** drafting, opinions, and banking and commercial documentation
 
